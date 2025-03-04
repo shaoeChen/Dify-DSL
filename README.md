@@ -9,3 +9,6 @@
 
 ## Finally
 目前正努力思考能有什麼樣的應用，所以是慢慢加入，因此範例數量不會增加的很快就是。
+
+## Preprocess
+* 關於`Workflow_Speech To Text`中的語音辨識模型設請先參閱[Dify + Whisper Asr Webservice](https://hackmd.io/@shaoeChen/ryjsXRXokx)
